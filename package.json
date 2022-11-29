@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-monitoring",
+  "version": "1.0.0",
+  "description": "Monitoring",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlapshin/nodejs-monitoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlapshin/nodejs-monitoring/issues"
+  },
+  "homepage": "https://github.com/nlapshin/nodejs-monitoring/",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gh-pages": "^4.0.0"
+  }
+}
